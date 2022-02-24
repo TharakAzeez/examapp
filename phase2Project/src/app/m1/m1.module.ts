@@ -24,7 +24,8 @@ import { ExamComponent } from './exam/exam.component';
   exports:[
     LoginComponent,
     SignupComponent,
-    FirstComponent
+    FirstComponent,
+    ExamComponent
     
   ]
 })
