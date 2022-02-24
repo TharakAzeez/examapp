@@ -1,0 +1,33 @@
+.bleddy{
+    font-size:20px;
+    margin:200px;
+    margin-left:250px;
+    border-style: outset;
+    
+    
+}
+.all{
+    margin-left: 180px;
+    
+}
+
+.welcome{
+    color:olivedrab;
+    margin-top: 30px;
+    font-size:  40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.exam{
+    color:red;
+    margin-top: 30px;
+
+}
+p{
+    color:rgb(5, 0, 0);
+}
+.old{
+    color: green;
+}
+.new{
+    color: red;
+}
