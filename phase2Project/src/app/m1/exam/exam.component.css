@@ -1,0 +1,18 @@
+.questions{
+    border-style: outset;
+    background-color: aliceblue;
+
+    margin: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.question1{
+    border-style:outset;
+}
+button{
+    background-color: green;
+    
+}
+button:active{
+    background-color: green;
+}
